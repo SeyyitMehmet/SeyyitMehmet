@@ -1,0 +1,60 @@
+# **👋 Merhaba, Ben Seyyit Mehmet Selvi**
+
+### **🚀 Yapay Zeka Araştırmacısı & Ürün Mühendisi (AI Researcher & Product Engineer)**
+
+Yapay zeka ve makine öğrenimi dünyasında 2 yılı aşkın süredir "çözüm üreten" bir mühendis adayıyım. Karmaşık algoritmaları gerçek dünya problemlerine entegre etmeyi ve otonom sistemler ile ticari ürünler (SaaS) geliştirmeyi seviyorum.
+
+## **🛠️ Teknik Yetkinlikler**
+
+| Alan | Teknolojiler |
+| :---- | :---- |
+| **Diller** |  |
+| **Yapay Zeka** | Computer Vision Deep Learning YOLO (v8-v11) PyTorch TensorFlow OpenCV NLP |
+| **Web & SaaS** | React Next.js Node.js Tailwind CSS Firebase |
+| **Araçlar** | Git Docker Linux Unity3D Agile/Scrum |
+
+## **🏆 Öne Çıkan Başarılar & Ödüller**
+
+* **TEKNOFEST Yenilikçi Yazılım Ödülü & Jüri Özel Ödülü:** Ulaşımda Yapay Zeka kategorisinde 2707 takım arasından **Türkiye 7.liği**. Geliştirdiğim konumlandırma algoritması %17'nin altında hata payı ile yarışmanın en düşük hata oranını elde etti.  
+* **BTK Akademi Yapay Zeka Hackathon Finalisti:** Kişiselleştirilmiş eğitim asistanı projesi ile finale kalma başarısı.
+
+## **🌟 Projelerim**
+
+### **🍔 [Siparis.go](https://www.npcengineering.com/products/siparisgo)**
+
+Restoranlar için uçtan uca QR menü ve sipariş yönetim sistemi.
+
+* **Teknolojiler:** React, Node.js, Firebase.  
+* **Etki:** İşletmelerin dijital dönüşümünü sağlayan, ölçeklenebilir bir SaaS ürünü.
+
+### **🤖 [AI Content Pipeline (Bobo ile Hikayeler)](https://www.youtube.com/@BoboileHikayelerTr)**
+
+Üretken yapay zeka (GenAI) kullanarak otomatik içerik üreten bir sistem.
+
+* **Teknolojiler:** Python, LLMs (GPT-4), Text-to-Speech, Image Generation APIs.  
+* **Etki:** İçerik üretim hızını %300 artırarak tam otomatize bir YouTube kanalı altyapısı kurdum.
+
+### **💰 Money Detection AI**
+
+Türk Lirası banknotlarını gerçek zamanlı tanıyan mobil destekli sistem.
+
+* **Teknolojiler:** YOLOv8, OpenCV, Python.  
+* **Performans:** %96.8 doğruluk oranı ve 50ms altı algılama süresi.
+
+## **📊 GitHub İstatistiklerim**
+
+\<p align="left"\>
+
+\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dseyyitmehmet%26show\_icons%3Dtrue%26theme%3Dradical" alt="Seyyit's Stats" /\>
+
+\<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dseyyitmehmet%26theme%3Dradical" alt="Seyyit's Streak" /\>
+
+\</p\>
+
+## **📫 Bana Ulaşın**
+
+* **LinkedIn:** [linkedin.com/in/seyyit-mehmet-selvi-0359742a9](https://www.google.com/search?q=https://linkedin.com/in/seyyit-mehmet-selvi-0359742a9)  
+* **E-posta:** seyitselvi2003@gmail.com  
+* **Web:** [npcengineering.com](https://www.npcengineering.com)
+
+*Bu profil düzenli olarak yeni projeler ve araştırmalarla güncellenmektedir.*
